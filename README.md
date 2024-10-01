@@ -167,9 +167,3 @@ We welcome contributions from the community. Feel free to open issues or submit 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides detailed instructions on setting up and running the Weather Assistant project. It includes all the requested content in complete Markdown format.
-
----

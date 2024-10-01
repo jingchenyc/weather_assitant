@@ -48,19 +48,19 @@ Weather Assistant is a collaborative project aimed at creating a Line Bot that p
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-assistant.git
+   git clone https://github.com/jingchenyc/weather-assistant.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd weather-assistant
+   cd linebot_weather-assistant
    ```
 
 3. **Install Required Libraries**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r linebot_requirements.txt
    ```
 
 ## Usage
@@ -88,12 +88,12 @@ Weather Assistant is a collaborative project aimed at creating a Line Bot that p
 
    - **Environment**: 2nd Generation
    - **Runtime**: Python 3.9
-   - **Entry Point**: Specify the function name in `main.py`.
+   - **Entry Point**: Specify the function name in `linebot_main.py`.
    - **Authentication**: Allow unauthenticated invocations.
 
 3. **Upload Code**
 
-   - Upload `main.py`, `get_weather.py`, and `requirements.txt`.
+   - Upload `linebot_main.py`, `linebot_get_weather.py`, and `linebot_requirements.txt`.
 
 4. **Set Environment Variables**
 
@@ -110,11 +110,11 @@ Weather Assistant is a collaborative project aimed at creating a Line Bot that p
 
    - Install dependencies:
      ```bash
-     pip install -r requirements.txt
+     pip install -r linebot_requirements.txt
      ```
    - Run the bot locally:
      ```bash
-     python main.py
+     python linebot_main.py
      ```
    - Use a tool like `ngrok` to expose your local server for webhook testing.
 

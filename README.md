@@ -20,6 +20,9 @@ A Python-based Line Bot that provides real-time weather updates and clothing rec
 
 Weather Assistant is a collaborative project aimed at creating a Line Bot that provides users with weather forecasts, rain probability, and clothing suggestions based on the latest meteorological data. The bot fetches data from the Central Weather Bureau's API and is deployed using Google Cloud Functions.
 
+<img width="771" alt="Screenshot 2024-10-01 at 12 09 51 PM" src="https://github.com/user-attachments/assets/67696345-2bae-4202-9922-90e2f797d894">
+
+
 ## Features
 
 - **Real-Time Weather Data**: Fetches current weather observations and 36-hour forecasts.

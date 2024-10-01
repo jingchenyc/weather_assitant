@@ -31,11 +31,9 @@ Weather Assistant is a collaborative project aimed at creating a Line Bot that p
 
 ## Project Structure
 
-- `main.py`: The main script for the Line Bot webhook.
-- `get_weather.py`: Contains functions to fetch and process weather data.
-- `requirements.txt`: Lists all the dependencies required for the project.
-- `weather_assistant_1230.ipynb`: Jupyter notebook with initial data fetching.
-- `天氣小助手_Ruth.ipynb`: Jupyter notebook with added features like rain gear suggestion and character recognition.
+- `linebot_main.py`: The main script for the Line Bot webhook.
+- `linebot_get_weather.py`: Contains functions to fetch and process weather data.
+- `linebot_requirements.txt`: Lists all the dependencies required for the project.
 
 ## Prerequisites
 

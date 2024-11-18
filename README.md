@@ -1,4 +1,4 @@
-# Weather Assistant
+# Weather Assistant - Project of ccClub
 
 A Python-based Line Bot that provides real-time weather updates and clothing recommendations by fetching data from the Central Weather Bureau API. Deployed using Google Cloud Functions for automated and scheduled execution.
 
